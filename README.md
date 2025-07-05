@@ -1,9 +1,9 @@
 # MSc-hierarchical-forecasting-code
 
 
-## Repository for Thesis: Heat Load Forecasting for Thermal Energy Storage Systems (TES) Using Spatial Hierarchies
+## Repository for Thesis: Heat Load Forecasting for Thermal Energy Storage Systems (TES) Using Temporal Hierarchies
 
-This repository contains parts of the code developed for the thesis titled Heat Load Forecasting for Thermal Energy Storage Systems (TES) Using Spatial Hierarchies. The dataset and files mentioned in the repository belong to the  at DTU (Technical University of Denmark).
+This repository contains parts of the code developed for the thesis titled Heat Load Forecasting for Thermal Energy Storage Systems (TES) Using Temporal Hierarchies. The dataset and files mentioned in the repository belong to the  at DTU (Technical University of Denmark).
 
 ## Additional Resources
 
@@ -12,11 +12,6 @@ Apart from the repository with scripts created for this project, here are links 
   * [onlineforecast](https://lab.compute.dtu.dk/packages/onlineforecast.git) 
 
     * Contains keys concepts for this project. 
-
-## Instructions
-
-
-
 
 ## Copyright and License
 
